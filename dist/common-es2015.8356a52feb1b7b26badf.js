@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{KeVr:function(n,t,e){"use strict";e.d(t,"a",function(){return o});var r=e("8Y7J");let o=(()=>{class n{}return n.\u0275mod=r.Ub({type:n}),n.\u0275inj=r.Tb({factory:function(t){return new(t||n)}}),n})()}}]);
